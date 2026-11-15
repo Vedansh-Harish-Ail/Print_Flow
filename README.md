@@ -81,7 +81,7 @@ Subscription plans or other paid offerings may be considered for a future releas
 
 For product questions, partnership inquiries, or access requests:
 
-- **Contact:** 
+- **Contact:** https://vhalokh.vercel.app/
 - **Updates:** 
 
 ## Intellectual property
